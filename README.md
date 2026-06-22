@@ -1,5 +1,5 @@
-<h1> hi my name is anita atashpour and im 16 years old 💚 </h1>
-<h2> im intrested in front-end </h2>
+<h1> Hi my name is anita atashpour and im 16 years old 💚 </h1>
+<h2> Im intrested in front-end </h2>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anitaatashpor@gmail.com) 
