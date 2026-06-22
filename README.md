@@ -1,4 +1,4 @@
-<h1> Hi my name is anita atashpour and im 16 years old 💚 </h1>
+<h1> Hi my name is Anita and im 16💚 </h1>
 <h2> Im intrested in front-end </h2>
 
 ## 🌐 Socials:
